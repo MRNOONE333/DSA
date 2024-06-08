@@ -1,2 +1,2 @@
 # DSA
-DSA concepts
+DSA concepts with proper documentation(comments).
