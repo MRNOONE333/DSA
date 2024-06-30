@@ -50,3 +50,29 @@ int main()
     fun(1.2);  
     return 0;  
 } 
+
+
+
+
+// explicitly stating 1.2 as float in the first code
+
+
+// #include<iostream>  
+// using namespace std;  
+// void fun(int);  
+// void fun(float);  
+// void fun(int i)  
+// {  
+//     std::cout << "Value of i is : " <<i<< std::endl;  
+// }  
+// void fun(float j)  
+// {  
+//     std::cout << "Value of j is : " <<j<< std::endl;  
+// }  
+// int main()  
+// {  
+//     fun(12);  
+//     float x =1.2;
+//     fun(x);  
+//     return 0;  
+// } 
